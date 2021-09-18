@@ -36,6 +36,7 @@ This feature change any heading font weight to normal and resizes a little bit, 
 
 ## Buttons
 **Note that this feature don't have outline version yet**
+
 This feature is for buttons but you need to add the class manually, use `btn btn-COLOR`.
 
 All colors and its class will be listed here (copy and paste the snippets):
