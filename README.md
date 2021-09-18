@@ -122,6 +122,23 @@ Android Apps also have "gravity", here the list by the way:
 |Center Vertically|gravity-center-vertical|
 |Center Horizontally|gravity-center-horizontal|
 
+# Contribute
+If you want to contribute, you must agree:
+
+## Family Friendly
+Please never add bad words to keep this repo a Family Friendly.
+
+## Limited
+You cannot modify any part of what i written, you can still write codes.
+
+## Pure CSS Code
+Never add SCSS or Less codes.
+
+## Proper Commenting
+You are able to comment anywhere but please comment properly.
+
+If you are agreed to all rules, you can edit or open an issue, Thanks!
+
 # Ending
 Thanks for using Simple UI, please let me know if there's any bugs.
 > Version: 1.0
