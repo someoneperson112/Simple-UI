@@ -132,10 +132,7 @@ Please never add bad words to keep this repo a Family Friendly.
 You cannot modify any part of what i written, you can still write codes.
 
 ## Pure CSS Code
-Never add SCSS or Less codes.
-
-## Proper Commenting
-You are able to comment anywhere but please comment properly.
+Please don't add third-party (bootstrap, scss, less etc) codes.
 
 If you are agreed to all rules, you can edit or open an issue, Thanks!
 
